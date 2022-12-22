@@ -15,6 +15,7 @@ input{
     border: 2px solid black;
     border-radius: 0.5rem;
     margin-bottom: 1rem;
+    flex-wrap: wrap;
 }
 
 .cal{
@@ -64,6 +65,66 @@ input{
   @media screen and (max-width: 850px) {
     input {
       width: 33%;
+      
+    }
+  }
+
+  @media screen and (max-width: 412px) {
+    input {
+      width: 65%;
+      
+    }
+  }
+  @media screen and (max-width: 360px) {
+    input {
+      width: 75%;
+      
+    }
+  }
+  @media screen and (max-width: 393px) {
+    input {
+      width: 76%;
+      
+    }
+  }
+  @media screen and (max-width: 414px) {
+    input {
+      width: 68%;
+      
+    }
+  }
+  @media screen and (max-width: 435px) {
+    input {
+      width: 68%;
+      
+    }
+    
+  }
+  @media screen and (max-width: 612px) {
+    input {
+      width: 48%;
+      
+    }
+    
+  }
+  @media screen and (max-width: 500px) {
+    input {
+      width: 54%;
+      
+    }
+    
+  }
+  @media screen and (max-width: 344px) {
+    input {
+      width: 80%;
+      
+    }
+    
+  }
+  
+  @media screen and (max-width: 375px) {
+    input {
+      width: 75%;
       
     }
   }
