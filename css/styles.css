@@ -42,7 +42,7 @@ input{
 @media screen and (max-width: 1286px) {
     input {
       width: 22%;
-      background-color: rgb(119, 31, 31);
+      
     }
   }
 
@@ -50,21 +50,21 @@ input{
   @media screen and (max-width: 1064px) {
     input {
       width: 27%;
-      background-color: rgb(75, 7, 153);
+      
     }
   }
 
   @media screen and (max-width: 917px) {
     input {
       width: 30%;
-      background-color: rgb(7, 153, 39);
+      
     }
   }
 
   @media screen and (max-width: 850px) {
     input {
       width: 33%;
-      background-color: rgb(153, 7, 7);
+      
     }
   }
 
